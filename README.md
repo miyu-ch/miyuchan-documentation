@@ -1,4 +1,4 @@
-# Miyuchan knowledge
-## Want to know something about Miyuchan ? It's [here!](docs)
+# Here is the documentation
+## You should find every topics you want, if a topic isn't there you can ask for it.
 
-<img src="https://i.pinimg.com/originals/3c/36/58/3c3658a15b5461e50ce3a500831e1fba.gif" />
+![Have fun](assets/library.gif)
