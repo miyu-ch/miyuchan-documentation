@@ -5,7 +5,7 @@ To start configuring Miyuchan, write `/configuration`,
 if perfectly executed, you should get a message like this:  
 ![Configuration message](assets/first_configuration_panel.png)  
   
-Do as the message says and re-do the commande once more, and you will eventually get a message like this  
+Do as the message says, and you will eventually get a message like this  
 ![Configuration panel](assets/configuration_panel.png)
 
 > [!NOTE]  
