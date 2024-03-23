@@ -18,7 +18,7 @@ Assuming you gain `p` XP for each message you send, we get a new function showin
 Now we can make another function, to know how many xp we have to get in total to reach x level, and another to know how many messages  
 ![Total XP to get for x level](assets/total_level_xp_formula.png)  
 ![Total Messages to reach x level](assets/total_message_level_xp_formula.png)  
-If you can to know for a specific level, here is a code snippet you can try:  
+If you want to know for a specific level, here is a code snippet you can try:  
 ```py
 import numpy as np
 
