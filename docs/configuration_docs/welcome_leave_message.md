@@ -4,7 +4,7 @@
 > [!NOTE]
 > Requires `Welcome channel` to be set-up.
 
-Set-up the Welcome channel by opening the configuration panel, clicking on `Welcome/Leave message` and fill in the form
+Set-up the Welcome/Leave message by opening the configuration panel, clicking on `Welcome/Leave message` and fill in the form
 
 ![Welcome/Leave message form](../assets/1_welcome.png)
 
