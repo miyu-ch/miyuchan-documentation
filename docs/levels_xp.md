@@ -34,4 +34,4 @@ p = 5 # XP for a message (between 1 and 10)
 print("Total XP Required to reach this level:",v(n))
 print("Total messages to send to reach this level:",int(w(n, p))+1)
 ```  
-Do not forget that it is an approximation as the XP Gain is random between 0 and 10 and so change everytime you send a message.
+Do not forget that it is an approximation as the XP Gain is random between 1 and 10 and so change everytime you send a message.
