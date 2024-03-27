@@ -1,11 +1,11 @@
 # XP-Roles
 ## When a member will reach a certain level, they will get a role
 
-Set-up the XP-Roles by opening the configuration panel, clicking on `XP-roles` and fill in the form :
+Set-up the XP-Roles by opening the configuration panel, clicking on `XP-roles` and fill in the form :  
 
 ![Form](../assets/1_xproles.png)
 
-For example:
+For example:  
 
 ![Example](../assets/2_xproles.png)
 

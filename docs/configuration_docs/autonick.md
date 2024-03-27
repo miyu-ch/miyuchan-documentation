@@ -4,8 +4,8 @@
 As you clicked on the button "Auto-nick" from the configuration panel, you will get this window:  
 ![First step](../assets/1_autonick.png)
 
-In this window you are asked to enter a nickname for new members, if you leave it blank it will just reset it.
-For example:
+In this window you are asked to enter a nickname for new members, if you leave it blank it will just reset it.  
+For example:  
 
 ![Second step](../assets/2_autonick.png)
 

@@ -5,11 +5,11 @@
 > Miyuchan requires the "Manage roles" permission to execute this feature perfectly.  
 
 
-As you clicked on the button "Auto-role" from the configuration panel, you will get this window:  
+As you clicked on the button "Auto-role" from the configuration panel, you will get this window:   
 ![First step](../assets/1_autorole.png)
 
-In this window you are asked to enter a role-name for new members, if you leave it blank it will just reset it.
-For example:
+In this window you are asked to enter a role-name for new members, if you leave it blank it will just reset it.  
+For example:  
 
 ![Second step](../assets/2_autorole.png)
 
