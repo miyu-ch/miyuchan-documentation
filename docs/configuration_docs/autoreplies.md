@@ -15,3 +15,6 @@ So now when a member will start their message by "Hi":
 
 > [!NOTE]
 > The cases of the word isn't needed to be perfect, for example "Hello !" will work for "Hi", "hI", "HI", "hi".
+
+> [!NOTE]
+> You can view the Auto-Replies you have set by doing `/view Auto-Replies`
